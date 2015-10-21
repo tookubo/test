@@ -5,7 +5,11 @@ test2
 <<<<<<< HEAD
 test3
 aaaaa
+<<<<<<< HEAD
 cccc
+=======
+zzz
+>>>>>>> d0865a3bc2ef1662435646e8f44726ed7057f132
 
 =======
 test45
