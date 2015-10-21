@@ -17,4 +17,9 @@ test16
 
 
 test
+<<<<<<< HEAD
 tsetseet
+=======
+
+tet
+>>>>>>> 2a303f5854a9a0b89f5c06c096b0fed07cf05fcf
