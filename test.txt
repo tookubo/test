@@ -2,7 +2,11 @@ test1
 
 test2
 
+<<<<<<< HEAD
 test3
 
 
 
+=======
+test45
+>>>>>>> 4a38bbf413e8741e79159f87bffc2e8f55eef6e3
