@@ -13,6 +13,7 @@ dependencies:
   override:
     - pip install --upgrade pip
     - pip install -U pytest
+    - pip install flask
   
 #python test
 test:
