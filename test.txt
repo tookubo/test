@@ -1,3 +1,12 @@
 # -*- coding: utf-8 -*-
 
-print "hello"
+from flask import Flask,render_template
+
+app = Flask(__name__)
+
+@app.route('/')
+def login():
+  return render_template('top.html')
+
+app.debug = True
+app.run(host = '127.0.0.1',port=5100)
