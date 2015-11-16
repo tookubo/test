@@ -1,0 +1,22 @@
+## Customize the test machine
+machine:
+
+  timezone:
+    Asia/Tokyo # Set the timezone
+  
+  #python version
+  python:
+    version: 2.6.6 #Set the python version
+  
+#py.test install
+dependencies:
+  override:
+    - pip install --upgrade pip
+    - pip install -U pytest
+  
+#python test
+test:
+  override:
+    - cat /etc/issue
+    - py.test --version
+    - py.test -v test.py

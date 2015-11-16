@@ -1,35 +1,3 @@
-test1
+# -*- coding: utf-8 -*-
 
-aaaaaaaaaaaaaa
-
-test2
-fs
-ああああああああああああ
-<<<<<<< HEAD
-test3
-aaaaa
-<<<<<<< HEAD
-cccc
-=======
-zzz
->>>>>>> d0865a3bc2ef1662435646e8f44726ed7057f132
-
-=======
-test45
->>>>>>> 4a38bbf413e8741e79159f87bffc2e8f55eef6e3
-
-test466
-
-test16
-
-
-test
-<<<<<<< HEAD
-tsetseet
-=======
-
-tet
->>>>>>> 2a303f5854a9a0b89f5c06c096b0fed07cf05fcf
-
-
-aaa
+print "hello"
